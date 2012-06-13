@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: RAP Canvas Example
+Bundle-SymbolicName: example.rap.canvas;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-Vendor: EclipseSource
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.rap.ui;resolution:=optional,
+ org.eclipse.ui;resolution:=optional
